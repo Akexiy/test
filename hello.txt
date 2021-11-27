@@ -1,0 +1,3 @@
+always @(*)
+	case(reset)
+	8'd0
